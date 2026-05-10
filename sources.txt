@@ -1,0 +1,13 @@
+src/main/java/library/model/Borrowable.java
+src/main/java/library/model/Magazine.java
+src/main/java/library/model/EBook.java
+src/main/java/library/model/Reader.java
+src/main/java/library/model/Book.java
+src/main/java/library/model/Rateable.java
+src/main/java/library/model/LibraryItem.java
+src/main/java/library/ui/ConsoleMenu.java
+src/main/java/library/exception/ItemNotAvailableException.java
+src/main/java/library/exception/ReaderNotFoundException.java
+src/main/java/library/exception/ItemNotFoundException.java
+src/main/java/library/service/LibraryService.java
+src/main/java/library/Main.java
